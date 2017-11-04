@@ -20,9 +20,9 @@ How well was this envisioned as an actual business problem? Is it clear what is 
 
 ## Algorithms to be implemented:
 - K-Nearest Neighbor model:   
-  user-based 
+  user-based  
   item based
-- Latent Factor Model:
+- Latent Factor Model:  
   SVD-MF  
   GD-MF?  
   NMF  
