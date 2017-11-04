@@ -1,5 +1,5 @@
 # Book Recommendation System 
-Part I of the project for E4571 Personalization: Theory & Application
+Part I of the project for E4571 Personalization: Theory & Application.
 Team members: Deepak Maran, Kewei Liu, Rakshita, Xiaohui Guo
 
 One Paragraph of project description goes here.
