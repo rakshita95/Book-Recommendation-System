@@ -34,16 +34,16 @@ How well was this envisioned as an actual business problem? Is it clear what is 
 - Number of ratings : 
 
 ## Tools
-- Python 2
+- Python 2  
 
-## Building Recommendation Systems
-### 1. Data Cleaning
+## Building Recommendation Systems  
+### 1. Data Cleaning  
 
-### 2. Data Sampling
+### 2. Data Sampling  
 
-example:
-1. Download data
-You need to have 'data' directory in your HOME.
+example:  
+1. Download data  
+You need to have 'data' directory in your HOME.  
 
 ```bash
 chmod +x download.sh; ./download.sh 
