@@ -38,9 +38,6 @@ How well was this envisioned as an actual business problem? Is it clear what is 
 
 ## Building Recommendation Systems  
 ### 1. Data Cleaning  
-
-### 2. Data Sampling  
-
 example:  
 1. Download data  
 You need to have 'data' directory in your HOME.  
@@ -48,5 +45,7 @@ You need to have 'data' directory in your HOME.
 ```bash
 chmod +x download.sh; ./download.sh 
 ```
+
+### 2. Data Sampling  
 
 ## References
