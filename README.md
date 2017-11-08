@@ -13,6 +13,6 @@ Hyperparameter Tunning_1.ipynb: Cross-validation code for tuning latent factors 
 Hyperparameter Tunning_2.ipynb: Cross-validation code for tuning regularization term hyperparameter for SGD  
 MAP_inference_Coordinat_Ascent.py: Code for implementation of MAP inference algorithm  
 kNN_v5.py: Cross-validation code for tuning hyperparameters for kNN  
-evaluation.py: Training and test set accuracy and coveragefor SGD, kNN and basline models  
+evaluation.py: Training and test set accuracy and coverage for SGD, kNN and baseline models. Precision-recall curves also plotted    
 SampleSizeTime.py: Plots running time as a function of sample size  
 sampleSizeAccuracy.py: Plots accuracy as a function of sample size  
