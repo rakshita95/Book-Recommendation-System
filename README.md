@@ -11,8 +11,8 @@ image: Folder containing all the plots
 Data Cleaning and Splitting.py: Cleans the BX-Book-ratings.csv file and splits into train and test files  
 Hyperparameter Tunning_1.ipynb: Cross-validation code for tuning latent factors and learning rate hyperparameters for SGD  
 Hyperparameter Tunning_2.ipynb: Cross-validation code for tuning regularization term hyperparameter for SGD  
-MAP_inference_Coordinat_Ascent: Code for implementation of MAP inference algorithm  
-kNN_v5: Cross-validation code for tuning hyperparameters for kNN  
+MAP_inference_Coordinat_Ascent.py: Code for implementation of MAP inference algorithm  
+kNN_v5.py: Cross-validation code for tuning hyperparameters for kNN  
 evaluation.py: Training and test set accuracy and coveragefor SGD, kNN and basline models  
-SampleSizeTime: Plots running time as a function of sample size  
-sampleSizeAccuracy: Plots accuracy as a function of sample size  
+SampleSizeTime.py: Plots running time as a function of sample size  
+sampleSizeAccuracy.py: Plots accuracy as a function of sample size  
