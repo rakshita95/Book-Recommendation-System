@@ -1,7 +1,7 @@
 
 # Book Recommendation System
 
-### Columbia University E4571 Personalization: Theory & Application
+## Columbia University E4571 Personalization: Theory & Application
 ### Team 16 Project Part 1 - Fundamentals
 
 
@@ -11,7 +11,7 @@
 ##### Rakshita Nagalla - UNI: rn2439
 ##### Xiaohui Guo - UNI: xg2225
 
-
+For detailed explanation of the approach and discussion of the results, refer to this [ipython notebook](Report.ipynb)  
 
 
 ## Contents:
@@ -28,4 +28,6 @@ MAP_inference_Coordinate_Ascent_Algorithm.py: Code for implementation of Probabi
 kNN_v5.py: Cross-validation code for tuning hyperparameters for kNN  
 evaluation.py: Training and test set accuracy and coverage for SGD, kNN and baseline models. Precision-recall curves also plotted    
 SampleSizeTime.py: Plots running time as a function of sample size  
-sampleSizeAccuracy.py: Plots accuracy as a function of sample size  
+sampleSizeAccuracy.py: Plots accuracy as a function of sample size    
+
+Software_Package_Requirements.txt: Software requirements to execute the code  
