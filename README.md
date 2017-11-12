@@ -1,7 +1,8 @@
 
 # Book Recommendation System
 
-#### Course Project for Columbia University : E4571 Personalization - Theory & Application
+Course Project for Columbia University : E4571 Personalization - Theory & Application  
+Team members: Deepak Maran, Kewei Liu, Rakshita Nagalla, Xiaohui Guo  
 
 For detailed explanation of the approach and discussion of the results, refer to this [ipython notebook](Report.ipynb)  
 
