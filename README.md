@@ -1,7 +1,7 @@
 
 # Book Recommendation System
 
-## Columbia University E4571 Personalization: Theory & Application
+#### Course Project for Columbia University : E4571 Personalization - Theory & Application
 
 For detailed explanation of the approach and discussion of the results, refer to this [ipython notebook](Report.ipynb)  
 
