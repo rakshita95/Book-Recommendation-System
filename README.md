@@ -6,10 +6,10 @@
 
 
 ### Team Members:
-##### Deepak Maran - UNI: dm3308
-##### Kewei Liu - UNI: kl2987
-##### Rakshita Nagalla - UNI: rn2439
-##### Xiaohui Guo - UNI: xg2225
+Deepak Maran - UNI: dm3308
+Kewei Liu - UNI: kl2987
+Rakshita Nagalla - UNI: rn2439
+Xiaohui Guo - UNI: xg2225
 
 For detailed explanation of the approach and discussion of the results, refer to this [ipython notebook](Report.ipynb)  
 
